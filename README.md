@@ -103,6 +103,7 @@
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
 - [姜葱捞鸡](./dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
+- [红烧排骨](./dishes/meat_dish/红烧排骨/红烧排骨.md)
 - [酱排骨](./dishes/meat_dish/酱排骨/酱排骨.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
 - [口水鸡](./dishes/meat_dish/口水鸡/口水鸡.md)

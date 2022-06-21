@@ -1,8 +1,8 @@
 # 程序员做饭指南
 
-[![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
+[![build](https://github.com/Ghostwritten/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Ghostwritten/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
@@ -15,7 +15,7 @@
 
 针对发现的问题，直接修改并提交 Pull request 即可。
 
-在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
+在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Ghostwritten/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
 
 ## 做菜之前
 
@@ -104,7 +104,6 @@
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
 - [姜葱捞鸡](./dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
-- [红烧排骨](./dishes/meat_dish/红烧排骨/红烧排骨.md)
 - [酱排骨](./dishes/meat_dish/酱排骨/酱排骨.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
 - [口水鸡](./dishes/meat_dish/口水鸡/口水鸡.md)

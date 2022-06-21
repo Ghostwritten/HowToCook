@@ -91,6 +91,7 @@
 - [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](./dishes/meat_dish/咕噜肉.md)
 - [黑椒牛柳](./dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
+- [红烧排骨](./dishes/meat_dish/红烧排骨/红烧排骨.md)
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
 - [红烧猪蹄](./dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
